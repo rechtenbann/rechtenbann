@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/https%3A%2F%2Fgithub.com%2Frechtenbann/https%3A%2F%2Fgithub.com%2Frechtenbann%2Frechtenbann.git)
+  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/https%3A%2F%2Fgithub.com%2Frechtenbann/https%3A%2F%2Fgithub.com%2Frechtenbann%2Frechtenbann.git">
 </div>
 <!---
 rechtenbann/rechtenbann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
