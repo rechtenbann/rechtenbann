@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/rechtenbann/rechtenbann?style=flat">
 </div>
+<!---https://shields.io/badges/git-hub-commit-activity->
 <!---
 rechtenbann/rechtenbann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
